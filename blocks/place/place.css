@@ -1,0 +1,38 @@
+.place{
+   min-width: 984px;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   padding-bottom: 80px;
+}
+
+.place:last-of-type{
+   padding-bottom: 0;
+}
+
+@media(max-width:1279px){
+   .place{
+      min-width: 928px;
+   }
+}
+
+@media(max-width:1023px){
+   .place{
+      min-width: 720px;
+      padding-bottom: 73px;
+   }
+   .place:last-of-type{
+      padding-bottom: 0;
+   }
+}
+
+@media (max-width:767px){
+   .place{
+      min-width: 320px;
+      justify-content: center;
+      padding-bottom: 50px;
+   }
+   .place:last-of-type{
+      padding-bottom: 0;
+   }
+}
