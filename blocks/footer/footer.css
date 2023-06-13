@@ -4,7 +4,6 @@
    flex-direction: row;
    justify-content: space-between;
    align-items: center;
-   min-height: 18px;
 }
 
 @media (max-width:767px) {
@@ -14,7 +13,6 @@
       align-items: flex-start;
       flex-direction: column;
       min-width: 186px;
-      min-height: 310px;
    }
 }
 
