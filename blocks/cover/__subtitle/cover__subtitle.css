@@ -9,9 +9,7 @@
 
 @media (max-width:767px) {
    .cover__subtitle{
-      font-style: normal;
       line-height: 16px;
-      font-weight: 400;
       max-width: 288px;
       padding-bottom: 33px;
    }
