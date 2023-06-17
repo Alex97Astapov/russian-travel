@@ -4,7 +4,6 @@
    display: flex;
    flex-direction: column;
    justify-content: start;
-   padding-bottom: 92px;
 }
 
 @media(max-width:1279px){
@@ -17,7 +16,6 @@
    .intro{
       min-width: 720px;
       padding: 0 24px;
-      padding-bottom: 88px;
    }
 }
 
@@ -25,7 +23,6 @@
       .intro{
          min-width: 288px;
          padding: 0 16px;
-         padding-bottom: 64px;
       }
    }
 
