@@ -1,12 +1,11 @@
-.place__url-link{
-   max-width: 456px;
-   margin: 0;
-   padding-bottom: 12px;
-   font-style: normal;
-   font-weight: 400;
-   font-size: 12px;
-   line-height: 12px;
-   letter-spacing: 2px;
-   color: #AAAAAA;
+.place__url-link {
+  max-width: 456px;
+  margin: 0;
+  padding-bottom: 12px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaaaaa;
 }
-
