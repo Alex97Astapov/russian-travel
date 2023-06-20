@@ -2,13 +2,13 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 1.63;
+  line-height: 163%;
   color: #fff;
   grid-row: 2;
-  margin: 26px 0 0;
+  margin: 0 0 25px;
   padding: 0;
 }
-.place__pharagraph:first-of-type {
+.place__pharagraph:last-child {
   margin: 0;
 }
 @media (max-width: 840px) {
