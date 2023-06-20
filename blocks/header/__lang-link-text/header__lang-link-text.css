@@ -8,3 +8,10 @@
   line-height: 28px;
   text-decoration: none;
 }
+
+@media (max-width: 767px) {
+  .header__lang-link-text {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
