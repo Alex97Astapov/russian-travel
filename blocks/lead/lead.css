@@ -8,12 +8,17 @@
 
 @media (max-width: 1160px) {
   .lead {
-    padding: 48px 0 0;
     max-width: calc(100% - 48px * 2);
   }
 }
 @media (max-width: 840px) {
   .lead {
     max-width: 100%;
+  }
+}
+
+@media(max-width: 767px){
+  .lead{
+    margin-bottom: 64px;
   }
 }
