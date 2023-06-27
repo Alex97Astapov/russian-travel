@@ -8,5 +8,6 @@
 @media (max-width: 767px) {
   .intro__list {
     max-width: 288px;
+    margin: 0 auto;
   }
 }
