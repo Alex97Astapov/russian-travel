@@ -18,9 +18,7 @@
 }
 @media (max-width: 620px) {
   .place__pharagraph {
-    margin: 0 auto;
     grid-row: 3;
     grid-column: 1;
-    width: calc(100vw - 16px * 2);
   }
 }

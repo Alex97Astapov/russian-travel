@@ -1,5 +1,4 @@
 .intro__list {
-  max-width: 690px;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -7,7 +6,6 @@
 
 @media (max-width: 767px) {
   .intro__list {
-    max-width: 288px;
     margin: 0 auto;
   }
 }
